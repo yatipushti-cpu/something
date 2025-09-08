@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "b48b2ca2-9f85-4e9b-a82b-2566527472d6",
+      "email": "yatipushti@gmail.com",
+      "passwordHash": "$2b$10$6K8Qbch7/f3RtWzcXr8nUeH3MUD6iiZYCUclK8f7tA7nHOzS/ndwS",
+      "firstName": "Yati",
+      "lastName": "Pushti",
+      "displayName": "Yati Pushti",
+      "userType": "employer",
+      "createdAt": "2025-09-08T08:47:49.443Z",
+      "updatedAt": "2025-09-08T08:59:34.933Z"
+    }
+  ],
+  "jobSeekerProfiles": [],
+  "companyProfiles": [
+    {
+      "id": "a741fd54-c338-4b48-9d1a-bdc8875ff88c",
+      "userId": "b48b2ca2-9f85-4e9b-a82b-2566527472d6",
+      "companyName": "Entrenet",
+      "industry": "",
+      "companySize": "",
+      "description": "",
+      "website": "",
+      "location": "",
+      "createdAt": "2025-09-08T08:48:09.284Z",
+      "updatedAt": "2025-09-08T08:48:09.284Z"
+    }
+  ],
+  "jobPostings": [
+    {
+      "id": "3f65879c-8d78-45df-9e1a-63f3382be154",
+      "companyId": "a741fd54-c338-4b48-9d1a-bdc8875ff88c",
+      "title": "technologia",
+      "description": "0",
+      "requirements": "0",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "location": "hoga",
+      "jobType": "full_time",
+      "experienceLevel": "executive",
+      "skills": [
+        "0"
+      ],
+      "isActive": true,
+      "createdAt": "2025-09-08T08:48:33.577Z",
+      "updatedAt": "2025-09-08T08:48:33.577Z"
+    }
+  ],
+  "jobApplications": [],
+  "messages": [],
+  "sessions": []
+}
